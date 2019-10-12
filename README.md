@@ -1,5 +1,5 @@
-#blue_ping
-###Utilises L2 Ping's to detect the presence of a bluetooth device.
+blue_ping
+Utilises L2 Ping's to detect the presence of a bluetooth device.
 
 Iterates though a list of MAC addresses.
 Requires the BlueZ stack to be installed. 
