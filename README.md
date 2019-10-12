@@ -2,6 +2,7 @@ blue_ping
 Utilises L2 Ping's to detect the presence of a bluetooth device.
 
 Iterates though a list of MAC addresses.
+Does not requere pairing to the device
 Requires the BlueZ stack to be installed. 
 
 Requires a list of bluetooth mac addresses saved in a text file called target_list.txt to be in the same directory.
