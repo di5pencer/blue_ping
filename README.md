@@ -2,7 +2,7 @@
 ### Utilises L2 Ping's to detect the presence of a bluetooth device.
 
 Iterates though a list of MAC addresses sending them an L2 Ping request.
-Does not require yout be be paired with the device
+Does not require you to be paired with the device
 Requires the BlueZ stack to be installed. 
 
 To operate this will require a target list to be loaded with one MAC address per line.
